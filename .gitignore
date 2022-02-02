@@ -1,0 +1,8 @@
+logs
+.vscode
+__pycache__
+.mypy_cache
+credentials
+
+set_env.sh
+env.list
